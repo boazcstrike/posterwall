@@ -1,0 +1,12 @@
+body{
+	background-image:url("images/loginbg.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	min-height:700px;
+}
+
+#title{
+	color:white;
+	margin-top:50px;
+	margin-left:100px;
+}
